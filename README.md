@@ -21,9 +21,13 @@ pip install all the prerequisite mention above
 
 in command prompt
 pip install install python
+
 pip install install jupyter
+
 pip install install streamlit
+
 pip install install scikit-learn
+
 
 
 Now go the folder where project is located
