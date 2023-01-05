@@ -2,7 +2,7 @@
 
 how to run this at your machine locally 
 
-clone repo or download zip file 
+
 
 prerequisite
 
@@ -11,3 +11,12 @@ streamlit
 pickle
 pandas
 numpy
+scikit-learn
+
+
+firstly 
+clone repo or download zip file 
+pip install all the prerequisite mention above 
+
+in terminal command 
+streamlit run app.py
