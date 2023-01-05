@@ -6,7 +6,7 @@ how to run this at your machine locally
 
 prerequisite
 
-pyhton
+python
 jupyter
 streamlit
 pickle
