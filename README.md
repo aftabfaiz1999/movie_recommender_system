@@ -20,13 +20,13 @@ clone repo or download zip file
 pip install all the prerequisite mention above 
 
 in command prompt
-pip install install python
+pip install  python
 
-pip install install jupyter
+pip install  jupyter
 
-pip install install streamlit
+pip install  streamlit
 
-pip install install scikit-learn
+pip install  scikit-learn
 
 
 
